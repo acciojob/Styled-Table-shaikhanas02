@@ -1,1 +1,33 @@
-/* your code */
+table {
+    border: 1px solid black ;
+  
+  }
+
+ table {
+    width: 90%;
+
+  }
+  table {
+
+    border-radius: 25px;
+    
+
+}
+  
+  th {
+    border-bottom: 1px solid black ;
+    height: 50px;
+	  background: lightblue
+	
+    
+  }
+  td {
+    height: 50px;
+    /* border-collapse: collapse; */
+    text-align: center;
+	  background: lightcoral ;
+  } 
+
+  th, td {
+    border-left: 1px solid #ddd;
+  }
